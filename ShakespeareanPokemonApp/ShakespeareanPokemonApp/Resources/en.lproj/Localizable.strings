@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  ShakespeareanPokemonApp
+
+  Created by daniele salvioni on 06/02/21.
+  
+*/
+
+"Error.alert.title" =                       "Error";
+"Error.alert.button.ok" =                   "OK";
+
+"Error.pokemonAPI.notFound" =               "The provided name doesn't match any pokemon";
+"Error.pokemonAPI.unknown" =                "An error has occurred while searching";
+"Error.translationAPI.tooManyRequests" =    "You reached the request limit for translation api";
+"Error.translationAPI.unknown" =            "An error has occurred while translating";
+
+"Search.title" =                            "William Pokemon Creator";
+"Search.textfield.placeholder" =            "write a pokemon name here";
+"Search.button.title" =                     "Search!";
+
+"Detail.pokemon.Bookmark.on" =              "Pokemon is bookmarked. Tap to remove";
+"Detail.pokemon.Bookmark.off" =             "Tap to bookmark this Pokemon!";
